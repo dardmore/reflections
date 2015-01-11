@@ -3,3 +3,5 @@ Question 1:  On initialization of the repository, git creates the base files nee
 Question 2: The staging area is different than the working directory because changes cannot be made to the file.  It is different than the repository as changes made to this file are not permanent.  The value is that it give the user the chance to make sure that the version that is permanent is exactly what is wanted.
 
 Question 3: Once the file is in the staging area, a git diff --staged will allow you to know if all changes made was to fix one issue.
+
+Question 4: Branches help when I want to move a web design in a completely different direction but need to make sure the original master is in tact.  It will also help record all updates made.
