@@ -1,0 +1,1 @@
+Question 1:  On initialization of the repository, git creates the base files needed for a new repository.
