@@ -1,0 +1,15 @@
+Using the Diff command helps by easily identifying the differences in the two files.  This saves a considerable amount of time by pinpointing the areas that I need to review.
+
+It will help identify the changes made and what worked well and what didn't work so well.  This will help refine my code.
+
+Pros of manual commit:  Flexibility and control over when the version is saved.  This can be at logical points, such as a bug fix to a certain function.
+
+Cons of manual commit:  Too aggressive/passive # of commits.  May end up with too many or too few versions.
+
+Git is catered to software control and getting a snapshot of all versions. Google docs is for tracking individual docs.
+
+Git log shows all the revision saves in the repository.  Using the git diff then can be used to compare the changes in two different versions of the file.
+
+Using version control to make changes can give you confidence that you can try to make big changes and know that if something breaks, you can always revert back to an older working version.
+
+I want to use Git for Project 1.
