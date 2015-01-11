@@ -7,3 +7,5 @@ Question 3: Once the file is in the staging area, a git diff --staged will allow
 Question 4: Branches help when I want to move a web design in a completely different direction but need to make sure the original master is in tact.  It will also help record all updates made.
 
 Question 5: A diagram is a nice visual that shows all branches that have been made and how easiest to return to that branch.
+
+Question 6: Merging two branches together brings together changes that both branches have been added.  The diagram is represented the way it is in order to make it clear that there are no longer two branches but only one that has come together.
