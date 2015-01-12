@@ -9,3 +9,5 @@ Question 4: Branches help when I want to move a web design in a completely diffe
 Question 5: A diagram is a nice visual that shows all branches that have been made and how easiest to return to that branch.
 
 Question 6: Merging two branches together brings together changes that both branches have been added.  The diagram is represented the way it is in order to make it clear that there are no longer two branches but only one that has come together.
+
+Question 7: Pros of automatic merging is that git will tell merge new parts that don't have any conflicts and it will notify you when there are conflicts and indicate where these conflicts are.  Cons of automatic merging the automatic addition of new code has the potential of causing errors.
