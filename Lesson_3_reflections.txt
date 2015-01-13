@@ -1,0 +1,1 @@
+When would you want to use a remote repository rather than keeping all your work local?  A remote repository helps if I'm using different machines or there are multiple people who are updating the file.
